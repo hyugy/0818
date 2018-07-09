@@ -65,10 +65,11 @@ select::-ms-expand{display:none}
 
 
 .header {
+	margin-top:100px;
 	width: 100%;
 	text-align:center;
 	color:#747943;
-	font-family:;
+    font-family: 'NotoSans','Noto Sans','NanumGothic','Malgun Gothic','맑은고딕','Apple SD Gothic Neo',Dotum,'돋움',sans-serif;
 }
 
 .container {
@@ -77,5 +78,5 @@ select::-ms-expand{display:none}
 	margin: 60px auto;
 	background-repeat:no-repeat;
 	background-position:center top;
-	background-image:url('images/0818.png');
+	background-image:url('../images/0818.png');
 }
